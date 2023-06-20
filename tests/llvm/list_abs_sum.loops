@@ -1,0 +1,6 @@
+Printing analysis 'Natural Loop Information' for function 'test':
+Loop at depth 1 containing: %bb4<header><exiting>,%bb9,%bb20,%bb15,%bb24,%bb25<latch>
+Printing analysis 'Natural Loop Information' for function '_Z10listLengthIiEiP4listIT_E':
+Printing analysis 'Natural Loop Information' for function '_Z7listGetIiET_P4listIS0_Ei':
+Printing analysis 'Natural Loop Information' for function '_ZNKSt6vectorIiSaIiEE4sizeEv':
+Printing analysis 'Natural Loop Information' for function '_ZNSt6vectorIiSaIiEEixEm':

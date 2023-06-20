@@ -132,8 +132,8 @@ def process_candidate_func(fn_def) -> FnDeclRecursive:
 
 if __name__ == "__main__":
     basename = "list_abs_sum"
-    filename = f"tests/{basename}.ll"
-    loops_filename = f"tests/{basename}.loops"
+    filename = f"tests/llvm/{basename}.ll"
+    loops_filename = f"tests/llvm/{basename}.loops"
     fn_name = "test"
     cvc_path = "cvc5"
 
